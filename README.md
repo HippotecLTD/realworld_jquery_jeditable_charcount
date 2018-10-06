@@ -12,6 +12,12 @@ So we created a real-world charcounter that:
  - Adds to the textarea the capability of submit on Enter.
  - Display custom char count text (in your own language, even Hebrew)
 
+### Installation
+Add these lines to your HTML:
+```HTML
+<script async src="https://cdn.jsdelivr.net/gh/HippotecLTD/realworld_jquery_jeditable@1.0.0/dist/jquery.jeditable.charcounter.realworld.min.js"></script>
+<script async src="https://cdn.jsdelivr.net/gh/HippotecLTD/realworld_jquery_jeditable@1.0.0/dist/jquery.charcounter.realworld.min.js"></script>
+```
 
 ### Usage
 ```javascript
