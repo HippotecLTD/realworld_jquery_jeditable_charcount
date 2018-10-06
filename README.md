@@ -12,6 +12,9 @@ So we created a real-world charcounter that:
  - Adds to the textarea the capability of submit on Enter.
  - Display custom char count text (in your own language, even Hebrew)
 
+### TL;DR
+Play with it right now: [JSfiddle](http://jsfiddle.net/NRxLP/16/)
+
 ### Installation
 Add these lines to your HTML:
 ```HTML
@@ -55,9 +58,6 @@ Or even inside your JQuery datatable:
             null,//null for read-only columns
         ]
 ```
-
-
-
 
 ### Customization
 
