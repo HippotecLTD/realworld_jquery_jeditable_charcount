@@ -11,7 +11,7 @@ So we created a real-world charcounter that:
  - Can limit char count (or not, you choose).
  - Supports any HTML tag container.
  - Adds to the textarea the capability of submit on Enter.
- - Display custom char count text (in your own language, even Hebrew).
+ - Displays a custom char count message (in your own language, even Hebrew).
 
 ### TL;DR
 Play with it right now on [JSFiddle](http://jsfiddle.net/NRxLP/16/).
