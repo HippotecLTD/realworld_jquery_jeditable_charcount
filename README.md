@@ -14,7 +14,7 @@ So we created a real-world charcounter that:
  - Display custom char count text (in your own language, even Hebrew).
 
 ### TL;DR
-Play with it right now on [JSfiddle](http://jsfiddle.net/NRxLP/16/).
+Play with it right now on [JSFiddle](http://jsfiddle.net/NRxLP/16/).
 
 ### Installation
 Add these lines to your HTML:
