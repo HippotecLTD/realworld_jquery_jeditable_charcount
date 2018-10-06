@@ -6,14 +6,15 @@ A JQuery-jeditable charcounter with everything you need. For real!
 We were not happy with any of the [existing charcounters](https://jeditable.elabftw.net/) for JQuqery's textarea. They were not built with real-world requirements in mind.
 
 So we created a real-world charcounter that:
+ - Is hackable.
  - Can count forwards and backwards.
  - Can limit char count (or not, you choose).
  - Supports any HTML tag container.
  - Adds to the textarea the capability of submit on Enter.
- - Display custom char count text (in your own language, even Hebrew)
+ - Display custom char count text (in your own language, even Hebrew).
 
 ### TL;DR
-Play with it right now: [JSfiddle](http://jsfiddle.net/NRxLP/16/)
+Play with it right now on [JSfiddle](http://jsfiddle.net/NRxLP/16/).
 
 ### Installation
 Add these lines to your HTML:
@@ -43,7 +44,7 @@ $("#myTextArea3").charCounter(20, {
 });
 ```
 
-Or even inside your JQuery datatable:
+Or even inside your [JQuery datatables](https://datatables.net/):
 ```javascript
 "aoColumns": [
             null,//null for read-only columns
