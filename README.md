@@ -53,7 +53,7 @@ Or even inside your [JQuery datatables](https://datatables.net/):
                 charcounter: {
                     characters: 60000
                 }
-            },//Empty object is used for the default editable settings
+            },
             null,//null for read-only columns
             null,//null for read-only columns
             null,//null for read-only columns
