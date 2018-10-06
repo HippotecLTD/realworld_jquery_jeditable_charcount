@@ -47,7 +47,7 @@ Or even inside your JQuery datatable:
             null,//null for read-only columns
             null,//null for read-only columns
             null,//null for read-only columns
-        	 ]
+        ]
 ```
 
 
