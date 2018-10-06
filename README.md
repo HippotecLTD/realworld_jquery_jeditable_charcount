@@ -71,3 +71,6 @@ Or even inside your JQuery datatable:
 Tom Deater's character_counter: [http://www.tomdeater.com/jquery/character_counter/](http://www.tomdeater.com/jquery/character_counter/) <br/>Copyright 2007 Tom Deater ([http://www.tomdeater.com](http://www.tomdeater.com))
 
 Mika Tuupola, Nicolas CARPi's jquery-jeditable: [https://github.com/NicolasCARPi/jquery_jeditable](https://github.com/NicolasCARPi/jquery_jeditable)<br/>© 2006 Mika Tuupola, Nicolas CARPi
+
+## License
+[MIT](https://www.tldrlegal.com/l/mit), Cipyright 2018 Nitzan Weidenfeld, Hippotec LTD
