@@ -1,4 +1,4 @@
-# realworld_jquery_jeditable
+# Real World JQuery Jeditable Char Counter 
 
 A JQuery-jeditable charcounter with everything you need. For real!
 <a href="https://www.hippotec.com"><img src="https://scontent.ftlv1-1.fna.fbcdn.net/v/t31.0-8/23415474_1885862811454462_8002399387929507367_o.jpg?_nc_cat=103&amp;oh=2af166f3b43b7567bcd90d44995ba7ff&amp;oe=5C164C85" alt="Hippotec" height="210"></a>
