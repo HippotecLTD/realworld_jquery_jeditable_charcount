@@ -14,13 +14,13 @@ So we created a real-world charcounter that:
  - Displays a custom char count message (in your own language, even Hebrew).
 
 ### TL;DR
-Play with it right now on [JSFiddle](http://jsfiddle.net/NRxLP/16/).
+Play with it right now on [JSFiddle](http://jsfiddle.net/NRxLP/17/).
 
 ### Installation
 Add these lines to your HTML:
 ```HTML
-<script async src="https://cdn.jsdelivr.net/gh/HippotecLTD/realworld_jquery_jeditable@1.0.0/dist/jquery.jeditable.charcounter.realworld.min.js"></script>
-<script async src="https://cdn.jsdelivr.net/gh/HippotecLTD/realworld_jquery_jeditable@1.0.0/dist/jquery.charcounter.realworld.min.js"></script>
+<script async src="https://cdn.jsdelivr.net/gh/HippotecLTD/realworld_jquery_jeditable_charcount@1.0.0/dist/jquery.jeditable.charcounter.realworld.min.js"></script>
+<script async src="https://cdn.jsdelivr.net/gh/HippotecLTD/realworld_jquery_jeditable_charcount@1.0.0/dist/jquery.charcounter.realworld.min.js"></script>
 ```
 
 ### Usage
